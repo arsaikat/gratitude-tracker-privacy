@@ -1,36 +1,53 @@
-# Gratitude Tracker
+Gratitude Tracker – Daily Log
 
-Welcome to the Gratitude Tracker! This application helps you to reflect on and record the things you are grateful for in your life.
+Build a habit of thankfulness
+Reflect. Appreciate. Grow.
 
-## Features
-- **User-Friendly Interface:** Easily navigate the app to log your gratitude entries.
-- **Daily Reminders:** Receive notifications to encourage you to reflect daily.
-- **Search Functionality:** Quickly find past entries.
+Start and end your day with intention. Capture what you’re grateful for, track streaks, and build a simple habit that improves mindset over time.
 
-## Installation
-To install the Gratitude Tracker, please follow these simple steps:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/arsaikat/gratitude-tracker-privacy.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd gratitude-tracker-privacy
-   ```
-3. Install the necessary dependencies:
-   ```bash
-   npm install
-   ```
+App Description
 
-## Usage
-1. Run the application:
-   ```bash
-   npm start
-   ```
-2. Follow the on-screen instructions to begin tracking your gratitude.
+Happiness begins with attention.
+Gratitude begins with awareness.
+Your daily ritual starts here.
 
-## Contributing
-We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING.md) for more information.
+Gratitude Tracker is a simple, distraction-free app designed to help you build a consistent gratitude practice in under 2 minutes a day.
+Core Features
+• Daily Gratitude Entries – Log 1–3 things you’re grateful for
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+• Streak Tracking – Stay consistent with visual streak indicators
+
+• Timeline View – Revisit past reflections anytime
+
+• Minimal, Calm Interface – No clutter. No noise. Just reflection
+
+• Reminders – Gentle nudges to stay consistent
+
+• Private & Secure – Your reflections stay yours
+
+Why Gratitude?
+Research shows that consistent gratitude practice can:
+• Improve mood
+
+• Reduce stress
+
+• Increase resilience
+
+• Improve sleep
+
+• Strengthen overall well-being
+
+Gratitude Tracker makes this practice frictionless.
+
+Who It’s For
+• People building a mindfulness habit
+
+• Busy professionals who want 2-minute rituals
+
+• Anyone working on mental wellness
+
+• Users who prefer simple, focused tools
+
+Call to Action
+Start small. Stay consistent.
+Download Gratitude Tracker and build a habit that compounds.
