@@ -12,6 +12,7 @@ Gratitude begins with awareness.
 Your daily ritual starts here.
 
 Gratitude Tracker is a simple, distraction-free app designed to help you build a consistent gratitude practice in under 2 minutes a day.
+
 Core Features
 • Daily Gratitude Entries – Log 1–3 things you’re grateful for
 
